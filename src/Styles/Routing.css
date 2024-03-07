@@ -1,0 +1,101 @@
+.logo{
+    height: 34px ;
+    width: 91px;
+}
+.cart-icon{
+    
+    width: 24px;
+}
+.LogIn-btn{
+    color: #2d2f31;
+    background-color: transparent;
+    border: 1px solid #2d2f31;
+    border-radius: 0px !important;
+    margin-left: 10px;
+}
+.LogIn-btn:hover{
+    color: #2d2f31;
+    background-color: rgba(23,57,83,.12);
+}
+.SignIn-btn{
+    background-color: #2d2f31;
+    color: #fff;
+    border-radius: 0px !important;
+    margin-left: 10px;
+}
+.SignIn-btn:hover{
+    background-color: #3e4143;
+    color: #fff;
+}
+.navbar-box{
+    box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+    z-index: 1010;
+}
+.footer{
+    background-color: #1c1d1f;
+    border-top: 1px solid #3e4143;
+    color: #fff;
+}
+.footer h6{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight:400 ;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
+.Eng-btn{
+    border-color: #fff;
+    background-color: #00000000;
+    color: white;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Eng-btn img{
+    color: wheat;
+    margin-right: 10px;
+    text-align: end;
+}
+.footer-row-two img{
+    width: 91px;
+    
+}
+.footer-row-two h2{
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+    
+}
+.form-control{
+    border-radius: 100px;
+    width:290px;
+}
+.search-btn{
+    border-radius: 20px !important;
+}
+
+/* Media Query */
+
+
+/* Media Query for low resolution  Tablets, Ipads */
+
+
+/* Mobile */
+@media only screen and (max-device-width: 480px){
+    .Eng-btn{
+        text-align: center !important;
+    }
+    .Eng-btn-row{
+        text-align: center !important;
+    }
+    .form-control{
+        border-radius: 100px;
+        width:200px;
+    }
+}

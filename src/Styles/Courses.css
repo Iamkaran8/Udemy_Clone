@@ -1,0 +1,42 @@
+
+.title-card{
+    font-size: 17px !important;
+    line-height: 20px;
+    font-weight: 600;
+}
+.card-text{
+    font-size: 12px !important;
+    line-height: 20px;
+    font-weight: 400;
+}
+.card-button{
+    background-color: #a435f0;
+    color: white;
+    font-weight: 700;
+}
+.card-star{
+    margin-bottom: 10px;
+}
+.mrp{
+    margin-left: 15px;
+    text-decoration: line-through;
+    font-weight: 300;
+    font-size: 15px;
+}
+.card{
+    -webkit-box-shadow:  0 4px 20px 0 #a535f026;
+   box-shadow: 0 4px 20px 0 #a535f026;
+   border: 0px  !important;
+}
+.price{
+    font-weight: 800;
+    font-size: 24px;
+}
+.course-h2{
+    font-size:22px;
+    font-weight: 600;
+    line-height: 24.6px;
+    
+}
+
+    

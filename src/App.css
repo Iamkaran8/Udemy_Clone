@@ -1,0 +1,21 @@
+
+body{
+
+  font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+   
+}
+
+
+/* Media Query */
+
+
+/* Media Query for low resolution  Tablets, Ipads */
+
+
+/* Mobile */
+@media only screen and (max-device-width: 480px){
+  body{
+    overflow-x: hidden !important;
+  }
+}

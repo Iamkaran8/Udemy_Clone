@@ -1,0 +1,57 @@
+/* Coursedetails css starts here */
+.detail-1{
+    background-color: #2D2F31;
+    color: #fff;
+}
+.detail-1 h1{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 20px;
+}
+.detail-1 p{
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 27px;
+}
+.detail-1 button{
+    font-weight: 900;
+    font-size: 12px;
+    border: 0px!important;
+}
+.detail-1 .instructor{
+    font-weight: 500;
+    font-size: 12px!important;
+}
+.descript{
+    border: 1px solid #6e6e6e4d;
+}
+.detail-2 h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    margin-bottom: 20px;
+}
+.add-cart{
+    font-weight: 900;
+    font-size: 16px;
+    border: 0px!important;
+    background-color: #a435f0;
+    color: #fff;
+}
+@media only screen and (max-device-width: 480px){
+    .detail-1 img{
+        width: 95%;
+    }
+    .detail-1 h1{
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    .detail-1 p{
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 27px;
+    }
+}

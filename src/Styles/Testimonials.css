@@ -1,0 +1,51 @@
+.slider{
+    padding: 25px 30px;
+    margin: 0 0px 15px 0;
+    border-radius: 2px;
+
+    background-color: #e8e7e753;
+
+}
+.slider img{
+    width: 80px;
+}
+.slider h3{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.slider h5{
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+}
+.slider p{
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 18px;
+}
+.slick-track{
+    column-gap: 30px;
+    display: flex;
+}
+.slick-prev:before, .slick-next:before{
+    color: #5624d0;
+}
+
+/* Media Query */
+
+
+/* Media Query for low resolution  Tablets, Ipads */
+
+
+/* Mobile */
+@media only screen and (max-device-width: 480px){
+    .slick-arrow {
+        display: none !important;
+    }
+    .slick-track{
+        column-gap: 0px !important;
+        display: flex;
+    }
+}

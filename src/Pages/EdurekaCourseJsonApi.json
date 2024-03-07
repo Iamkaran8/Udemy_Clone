@@ -1,0 +1,133 @@
+[
+    {
+        "id":1,
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "description1": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+        "description2": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you!We will teach you the latest technologies for building great web applications with Python 3 and Django! But we don't just teach that, we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer!This course is designed so that anyone can learn how to become a web developer. We teach you how to program by using HD Video Lectures, Walkthrough Code Projects, Exercises, Concept Presentation Slides, Downloadable Code Notes, Reading Assignments, and much more!  ",
+        "instructor": "Jose Portilla",
+        "price": "$99",
+        "duration": "10 weeks",
+        "ratings": "4.40 (36846 Ratings)",
+        "students":"208,139 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/822444_a6db.jpg"
+        
+    },
+    {
+        "id":2,
+        "title": "Build a Backend REST API with Python & Django - Advanced",
+        "description1": "Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)",
+        "description2": "Welcome to the advanced course on how to Build a Backend REST API using Python, Django (3.2), Django REST Framework (3.12), Docker, GitHub Actions, Postgres and Test Driven Development! Whether you’re a freelance programmer, tech entrepreneur, or just starting out building backends - this course will help lay the foundation of your knowledge base and give you the tools to advance your skills with some of the most in-demand programming languages today. APIs are the unsung heroes behind the technologies that we all love and use religiously. One of the most critical components for any tech-based business is an API. So knowing how to create an API from start to finish is a vital skill to have as a developer. You cannot build a successful app without a backend REST API!",
+        "instructor": "Mark Winterbottom",
+        "price": "$57",
+        "duration": "4 weeks",
+        "ratings": "4.90 (75846 Ratings)",
+        "students":"45,543 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/2045310_f8a2_6.jpg"
+        
+    },
+    {
+        "id":3,
+        "title": "Python Django Ecommerce | Advanced Django Web App From Basic",
+        "description1": "Master Django Basic Fundamentals and Create an Advanced Python eCommerce Site and Deploy on Amazon AWS",
+        "description2": "Welcome to the Project-Based Django Web Development Course where you will learn to develop a fully-featured eCommerce website and redesign any Django-based web applications. I designed this course, for anyone seeking to learn and build a Django-based custom web application. By the end of this course, you will be able to analyze, design, and develop your own eCommerce application and deploy it on the live server with the custom domain name.",
+        "instructor": "Rathan Kumar",
+        "price": "$27",
+        "duration": "9 weeks",
+        "ratings": "4.20 (846 Ratings)",
+        "students":"4,543 students",
+        "banner": "https://img-b.udemycdn.com/course/240x135/3826340_8408_3.jpg"
+        
+    },
+
+    {
+        "id":4,
+        "title": "Django Celery Mastery: Python Asynchronous Task Processing",
+        "description1": "Unlocking the Power of Asynchronous Task Processing with Python Celery",
+        "description2": "Ready to learn Django? In this course we will start from the very basics of what Django is to completing and deploying a fully functional website. The website we will build as we learn will be an online platform where developers from around the world can create a profile and share their work with others.",
+        "instructor": "Dennis Ivy",
+        "price": "$37",
+        "duration": "3 weeks",
+        "ratings": "3.90 (8346 Ratings)",
+        "students":"234,543 students",
+        "banner": "https://img-b.udemycdn.com/course/240x135/1094964_35b4_5.jpg"
+        
+    },
+    {
+        "id":5,
+        "title": "Python Django - Complete Course",
+        "description1": "Learn to build awesome websites with Python & Django!",
+        "description2": "In today's fast-paced web development landscape, efficiently handling time-consuming and resource-intensive tasks is crucial for building high-performance applications. Django Celery, a powerful asynchronous task-processing library, provides the perfect solution to address this challenge. This comprehensive course, Django Celery Mastery: Python Asynchronous Task Processing, is designed to empower you with the knowledge and skills necessary to harness the full potential of Django Celery and elevate your Python web applications to new heights of scalability and responsiveness.",
+        "instructor": "Very Academy",
+        "price": "$17",
+        "duration": "2 weeks",
+        "ratings": "4.350 (346 Ratings)",
+        "students":"5443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/4152006_54df_5.jpg"
+        
+    },
+    {
+        "id":6,
+        "title": "Django In Real Life - Build Complex Restaurant Platform",
+        "description1": "Python Django Multi-Vendor Restaurant Marketplace with location based search, nearby restaurants. Beginner to Expert",
+        "description2": "Welcome to the Project-Based Django Web Development Course where you will learn to develop a fully-featured Multi-vendor Restaurant Marketplace website with location-based search, nearby restaurants, and many more complex functionalities. I designed this course, for anyone seeking to learn and build a Django-based custom web application. By the end of this course, you will be able to analyze, design, and develop your own Multi-vendor Restaurant Marketplace website and deploy it on the live server with the custom domain name.",
+        "instructor": "Karan",
+        "price": "$700",
+        "duration": "20 weeks",
+        "ratings": "4.90 (3,460,475 Ratings)",
+        "students":"95,735,443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/5389306_7545_5.jpg"
+        
+    },
+    {
+        "id":7,
+        "title": "Development Web Development REST API Build REST APIs with Django REST Framework and Python",
+        "description1": "Learn Basics to Advanced Django REST Framework by building IMDB API Clone (JWT, Token, Throttling, Pagination, Testing)",
+        "description2": "Welcome to Django Rest Framework Masterclass, One single course to start your DRF journey as a beginner step-by-step. This course touches on each and every important topic through concept explanation, documentation, and implementation. The entire course is designed for beginners with one goal in mind, to build powerful REST APIs using Python and Django.",
+        "instructor": "Lotus",
+        "price": "$200",
+        "duration": "10 weeks",
+        "ratings": "4.80 (460,475 Ratings)",
+        "students":"735,443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/4552020_43cc.jpg"
+        
+    },
+    {
+        "id":8,
+        "title": "Python Developer | Complete course 2023",
+        "description1": "Learn programming by starting from zero, and create powerful projects with Python : Web, Mobile, Games, Desktop",
+        "description2": "Welcome to Django Rest Framework Masterclass, One single course to start your DRF journey as a beginner step-by-step. This course touches on each and every important topic through concept explanation, documentation, and implementation. The entire course is designed for beginners with one goal in mind, to build powerful REST APIs using Python and Django.",
+        "instructor": "Robert",
+        "price": "$20",
+        "duration": "3 weeks",
+        "ratings": "4.50 (6,045 Ratings)",
+        "students":"5,443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/3856080_6aff_7.jpg"
+        
+    },
+    {
+        "id":9,
+        "title": "Mastering Django 5.0 & DRF - The Complete Reference Guide",
+        "description": "Learn Django,Django ORM,Django Signals and Django Rest Framework (DRF) - Step By Step",
+        "description2": "Django follows the MVT design pattern (Model View Template). Django was designed to help developers take applications from concept to completion as quickly as possible. With Django, you can take web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. Django includes dozens of extras you can use to handle common web development tasks. Django takes care of user authentication, content administration, site maps, RSS feeds, and many more tasks — right out of the box.",
+        "instructor": "Johnny",
+        "price": "$80",
+        "duration": "5 weeks",
+        "ratings": "4.50 (6,045 Ratings)",
+        "students":"5,443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/2625826_b507_5.jpg"
+        
+    },
+    {
+        "id":10,
+        "title": "The Complete Reference Guide",
+        "description1": "Learn Django,Django ORM,Django Signals and Django Rest Framework (DRF) - Step By Step",
+        "description2": "Django follows the MVT design pattern (Model View Template). Django was designed to help developers take applications from concept to completion as quickly as possible. With Django, you can take web applications from concept to launch in a matter of hours. Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. Django includes dozens of extras you can use to handle common web development tasks. Django takes care of user authentication, content administration, site maps, RSS feeds, and many more tasks — right out of the box.",
+        "instructor": "Anujkumar",
+        "price": "$20",
+        "duration": "1 weeks",
+        "ratings": "3.0 (6,045 Ratings)",
+        "students":"5,443 students",
+        "banner": "https://img-b.udemycdn.com/course/480x270/3471238_8040.jpg"
+        
+    }
+]

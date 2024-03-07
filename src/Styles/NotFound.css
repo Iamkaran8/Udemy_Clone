@@ -1,0 +1,10 @@
+
+/* Mobile */
+@media only screen and (max-device-width: 480px){
+    .notFound_img{
+        width:60%
+    }
+    .notfound-h2{
+        font-size: 19px !important;
+    }
+}
